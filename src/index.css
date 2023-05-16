@@ -224,6 +224,11 @@ footer {
   text-decoration: none;
 }
 
+.van-img{
+  width: 250px;
+  border-radius: 25px;
+}
+
 .van-tile img {
   max-width: 100%;
   border-radius: 5px;
